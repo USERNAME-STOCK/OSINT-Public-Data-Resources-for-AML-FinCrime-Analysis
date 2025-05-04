@@ -1,8 +1,9 @@
-# AML / FinCrime Analyst Technical Skills Showcase
-
+ 
 ## Relevant OSINT / Public Data Resources for AML/FinCrime Analysis
 
-This section lists examples of free resources potentially useful for Open Source Intelligence gathering in the context of AML, KYC, EDD, and financial crime investigations. Usage requires strict adherence to applicable laws, terms of service, and ethical considerations. This is a curated list relevant to the AML/FinCrime context.
+This section lists examples of free resources potentially useful for Open Source Intelligence gathering in the context of AML, KYC, EDD, and financial crime investigations. 
+Usage requires strict adherence to applicable laws, terms of service, and ethical considerations. 
+This is a curated list relevant to the AML/FinCrime context.
 
 ### People Investigations & Verification
 -   [192](http://www.192.com/) (UK)
