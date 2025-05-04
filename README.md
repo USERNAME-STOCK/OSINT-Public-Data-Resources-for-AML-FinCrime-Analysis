@@ -1,5 +1,9 @@
-# OSINT-Public-Data-Resources-for-AML-FinCrime-Analysis
-lists examples of free resources potentially useful for Open Source Intelligence gathering in the context of AML, KYC, EDD, and financial crime investigations, based on the collection from the uploaded file. Usage requires strict adherence to applicable laws, terms of service, and ethical considerations. This is not an exhaustive list.
+# AML / FinCrime Analyst Technical Skills Showcase
+
+## Relevant OSINT / Public Data Resources for AML/FinCrime Analysis
+
+This section lists examples of free resources potentially useful for Open Source Intelligence gathering in the context of AML, KYC, EDD, and financial crime investigations. Usage requires strict adherence to applicable laws, terms of service, and ethical considerations. This is a curated list relevant to the AML/FinCrime context.
+
 ### People Investigations & Verification
 -   [192](http://www.192.com/) (UK)
 -   [411 (US)](http://www.411.com/)
@@ -21,7 +25,7 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [White Pages](http://www.whitepages.com/) (US)
 -   [Yasni](http.yasni.com/) (Aggregator)
 -   [Zoominfo](http://www.zoominfo.com/) (Business focus, limited free search)
--   **See original [README.md](https://github.com/Ph055a/OSINT_Collection) file for a more comprehensive list**
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Deceased Searching
 -   [Grave Finder](https://www.findagrave.com/index.html)
@@ -39,14 +43,14 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [PACER](https://pacer.uscourts.gov/) (US Federal Courts - Fee-based, potential exemptions)
 -   [Search Systems](http://publicrecords.searchsystems.net) (Public Record Directory)
 -   [UniCourt](https://unicourt.com/) (US Court Cases - Limited free search)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Leaks & Data Breaches (Use ethically and legally)
 -   [Offshore Leak Database](https://offshoreleaks.icij.org/) (ICIJ)
 -   [Database Today](https://www.databases.today) (Aggregator)
 -   [DataBreaches](https://www.databreaches.net/) (News and links)
 -   [Have I Been Pwned](https://haveibeenpwned.com/) (Email/Phone Breach Check)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Company Research
 -   [Angel List](https://angel.co) (Startups)
@@ -67,7 +71,7 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [opencorporates](https://opencorporates.com/) (Global Company Data)
 -   [Owler](https://www.owler.com/) (Company Info/News)
 -   [Sedar Company Search](https://www.sedar.com/search/search_en.htm) (CA Filings)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Email Search / Check
 -   [EmailRep](https://emailrep.io/) (Email Reputation)
@@ -75,7 +79,7 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [Hunter.io](https://hunter.io/) (Find business emails - limited free)
 -   [MailTester](http://mailtester.com/testmail.php) (Email Verification)
 -   [ThatsThem](https://thatsthem.com/reverse-email-lookup) (Reverse Email Lookup)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Phone Number Information
 -   [Free Carrier Lookup](http://freecarrierlookup.com/)
@@ -84,20 +88,20 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [sync.me](https://sync.me/) (Reverse phone lookup - app focused)
 -   [That's Them](http://thatsthem.com/reverse-phone-lookup)
 -   [True Caller](https://www.truecaller.com/) (App focused, web search limited)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Username Check
 -   [Check User Names](http://www.checkusernames.com/)
 -   [Knowem](http://www.knowem.com/)
 -   [Name Chk](http://www.namechk.com/)
 -   [Whatsmyname.app](https://www.whatsmyname.app/)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Social Media Search (Aggregators/Tools)
 -   [Social Searcher](https://www.social-searcher.com/) (Mentions Search)
 -   [Social Mention](http://socialmention.com/) (Mentions Search)
 -   Specific platform searches (e.g., LinkedIn Search, Twitter Advanced Search) are also crucial.
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### General & International Search Engines
 -   [Google](http://www.google.com/)
@@ -107,7 +111,7 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [Yandex](http://www.yandex.com/) (RU/CIS focus)
 -   [Baidu](http://www.baidu.com/) (China focus)
 -   [Naver](http://www.naver.com/) (Korea focus)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Document Search
 -   [Internet Archive](https://archive.org/)
@@ -116,7 +120,7 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [Document Cloud](https://www.documentcloud.org) (Journalism focus)
 -   [SlideShare](http://www.slideshare.net/)
 -   [Scribd](http://www.scribd.com/)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Cryptocurrency Investigations
 -   [Blockchain.com Explorer](https://www.blockchain.com/explorer) (BTC, ETH, BCH)
@@ -124,7 +128,7 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [Etherscan](https://etherscan.io/) (ETH and ERC20 tokens)
 -   [Tokenview](https://tokenview.com/) (Multiple currencies)
 -   [Wallet Explorer](https://www.walletexplorer.com) (BTC Wallet Analysis)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Marine & Cargo Tracking (Relevant for Trade-Based Money Laundering)
 -   [Marine Traffic](http://www.marinetraffic.com)
@@ -133,21 +137,21 @@ lists examples of free resources potentially useful for Open Source Intelligence
 -   [Track Trace (Cargo)](http://www.track-trace.com/container)
 -   [Import Genius (Cargo)](http://importgenius.com/) (Limited free search)
 -   [Panjiva (Cargo)](https://panjiva.com/search) (Limited free search)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### IBAN Check
 -   [IBAN checker](https://www.iban.com/)
 -   [IBAN calculator](http://www.ibancalculator.com/iban_validieren.html)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Multi-Tools / Aggregators
 -   [Black Book Online](http://www.blackbookonline.info) (Public Records Portal)
 -   [Melissa Data](http://www.melissadata.com/lookups/index.htm) (Address/Name/Phone Verification)
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
 ### Darkweb Search (Use with extreme caution, appropriate tools, and legal/ethical awareness)
 -   [Dark Search](https://darksearch.io/) (Clearnet search engine for Tor sites)
 -   Note: Accessing the Dark Web directly requires specific browsers (e.g., Tor Browser) and carries inherent risks. Search engines provide limited visibility.
--   *See original uploaded README.md file for a more comprehensive list*
+-   *For a more comprehensive list, see the original [OSINT Collection](https://github.com/Ph055a/OSINT_Collection).*
 
---- 
+---
